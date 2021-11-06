@@ -2,7 +2,7 @@ Welcome to the Videos/Recordings archive!
 
 Here are links to publicly available recordings such as podcasts, speaking engagements, etc... enjoy (most recent on top):
 
-- VetSecCon - 10/29/2021: Coming soon!
+- VetSecCon - 10/29/2021: https://www.youtube.com/watch?v=QQZVPDKMKGA
 - Hacker Halted - 10/8/2021: Coming soon!
 - "A Dash of Cyber" Ep 3 - 7/28/2021: https://www.linkedin.com/video/live/urn:li:ugcPost:6825475340165558272/
 - DHS CISA Webinar - Cybersecurity Community Capacity Building - 7/27/2021: https://www.youtube.com/watch?v=S2hFvYOWt5k
