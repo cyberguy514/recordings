@@ -2,7 +2,7 @@ Welcome to the Videos/Recordings archive!
 
 Here are links to publicly available recordings such as podcasts, speaking engagements, etc... enjoy (most recent on top):
 
-- "A Dash of Cyber" Ep 5 - 11/10/2021: https://www.linkedin.com/video/event/urn:li:ugcPost:6861856999672483840/
+- "A Dash of Cyber" Ep 5 - 11/10/2021: https://youtu.be/dp66BOKTCuU
 - VetSecCon - 10/29/2021: https://www.youtube.com/watch?v=QQZVPDKMKGA
 - Hacker Halted - 10/8/2021: Coming soon!
 - "A Dash of Cyber" Ep 3 - 7/28/2021: https://www.linkedin.com/video/live/urn:li:ugcPost:6825475340165558272/
