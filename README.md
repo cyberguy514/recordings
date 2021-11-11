@@ -2,11 +2,12 @@ Welcome to the Videos/Recordings archive!
 
 Here are links to publicly available recordings such as podcasts, speaking engagements, etc... enjoy (most recent on top):
 
+- "A Dash of Cyber" Ep 5 - 11/10/2021: https://www.linkedin.com/video/event/urn:li:ugcPost:6861856999672483840/
 - VetSecCon - 10/29/2021: https://www.youtube.com/watch?v=QQZVPDKMKGA
 - Hacker Halted - 10/8/2021: Coming soon!
 - "A Dash of Cyber" Ep 3 - 7/28/2021: https://www.linkedin.com/video/live/urn:li:ugcPost:6825475340165558272/
 - DHS CISA Webinar - Cybersecurity Community Capacity Building - 7/27/2021: https://www.youtube.com/watch?v=S2hFvYOWt5k
-- Cyber Shield Interviews: 7/20:2021: https://www.ksl.com/article/50208332/utah-hosts-largest-unclassified-security-training-in-the-country & https://www.heraldextra.com/news/local/govt-and-politics/utah-s-camp-williams-hosts-nation-s-largest-cyber-defense-exercise/article_3dea2ccd-a4dd-5ec9-9fdf-9bc4968aa04f.html
+- Cyber Shield Interviews - 7/20:2021: https://www.ksl.com/article/50208332/utah-hosts-largest-unclassified-security-training-in-the-country & https://www.heraldextra.com/news/local/govt-and-politics/utah-s-camp-williams-hosts-nation-s-largest-cyber-defense-exercise/article_3dea2ccd-a4dd-5ec9-9fdf-9bc4968aa04f.html
 - "A Dash of Cyber" Ep 2 - 6/10/2021: https://www.linkedin.com/video/live/urn:li:ugcPost:6808030132834500608/
 - "A Dash of Cyber" Ep 1 - 5/5/2021: https://www.linkedin.com/video/live/urn:li:ugcPost:6795701406490783744/
 - DHS CISA Webinar - Combatting Online Influence and Manipulation - 2/25/2021: https://youtu.be/EtuPh-L0_dw
