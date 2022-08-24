@@ -2,6 +2,7 @@ Welcome to the Videos/Recordings archive!
 
 Here are links to publicly available recordings such as podcasts, speaking engagements, etc... enjoy (most recent on top):
 
+- "A Dash of Cyber" Eo 9 - 8/24/22: https://www.linkedin.com/video/event/urn:li:ugcPost:6967830649080553472/
 - "A Dash of Cyber" Ep 8 - 3/30/22: https://www.linkedin.com/video/event/urn:li:ugcPost:6914573096154767360/
 - MCPA, MilcyberSync Podcast Ep 3 - 3/21/22: https://www.youtube.com/watch?v=TltfevxH-ko
 - "A Dash of Cyber" Ep 7 - 2/23/2022: https://www.linkedin.com/video/event/urn:li:ugcPost:6900551157551304704/
