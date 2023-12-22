@@ -2,7 +2,10 @@ Welcome to the Videos/Recordings archive!
 
 Here are links to publicly available recordings such as podcasts, speaking engagements, etc... enjoy (most recent on top):
 
-- "A Dash of Cyber" Ep 11 - 3/16/2023 - https://www.linkedin.com/events/adashofcyberepisode11-patching-7041046758633697280/comments/
+- "A Dash of Cyber" Ep 12 - 12/21/2023: https://www.linkedin.com/events/7140700474814410753/comments/
+- "VetSecCon" - 10/28/2023: https://www.youtube.com/watch?v=YhbzXs6COEc&list=PLTo3KD5FmPvDQi7dX0Y4cUGrbfJZh9LAS&index=23
+- "HammerCon 2.0" - 5/17/2023: https://www.youtube.com/watch?v=Jeb6YUu3FZ8&list=PLUBhl0xDSym03jRKdR2XeVbj4lMvviwRG&index=14&t=19s
+- "A Dash of Cyber" Ep 11 - 3/16/2023: https://www.linkedin.com/events/adashofcyberepisode11-patching-7041046758633697280/comments/
 - AvengerCon VII - 12/1/2022: Coming soon!
 - "A Dash of Cyber" Ep 10 - 11/16/2022: https://www.linkedin.com/events/adashofcyberepisode10-connected6997931165928030208/comments/
 - VetSecCon - 10/29/2022: https://www.youtube.com/watch?v=-dSoSVWv4hU
