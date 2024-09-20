@@ -2,6 +2,7 @@ Welcome to the Videos/Recordings archive!
 
 Here are links to publicly available recordings such as podcasts, speaking engagements, etc... enjoy (most recent on top):
 
+- "HammerCon 3.0" - 5/16/2024: https://www.youtube.com/watch?v=PpcQ70ZsgLs&t=8s
 - "A Dash of Cyber" Ep 12 - 12/21/2023: https://www.linkedin.com/events/7140700474814410753/comments/
 - "VetSecCon" - 10/28/2023: https://www.youtube.com/watch?v=YhbzXs6COEc&list=PLTo3KD5FmPvDQi7dX0Y4cUGrbfJZh9LAS&index=23
 - "HammerCon 2.0" - 5/17/2023: https://www.youtube.com/watch?v=Jeb6YUu3FZ8&list=PLUBhl0xDSym03jRKdR2XeVbj4lMvviwRG&index=14&t=19s
